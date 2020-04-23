@@ -1,4 +1,4 @@
-# Home-Credit-Default-Risk
+# Home Credit Default Risk
 
 ![Introduction](HomeCreditDefaultRisk/Slide1.PNG)
 ![Introduction](HomeCreditDefaultRisk/Slide2.PNG)
